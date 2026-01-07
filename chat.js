@@ -21,7 +21,7 @@ function sendMessage() {
   })
     .then(res => res.json())
     .then(data => {
-      appendMessage(data.reply, "bot"); // balasan dari Flask (Gemini)
+      appendMessage(data.reply, "bot");
     })
     .catch(err => {
       appendMessage("⚠️ Error koneksi ke server!", "bot");
