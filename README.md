@@ -1,4 +1,4 @@
-# ChatBot Kelompok 5
+# ChatBot
 
 Proyek ini adalah antarmuka ChatBot berbasis web dengan desain modern bertema **Royal Blue Technology**. Dibuat menggunakan HTML, CSS, dan JavaScript murni tanpa framework tambahan.
 
